@@ -1,0 +1,10 @@
+body {
+    background-image: url("background.jpg");
+    background-size: 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI';
+}
